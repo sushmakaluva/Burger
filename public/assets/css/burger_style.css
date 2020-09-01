@@ -2,6 +2,7 @@ li {
   padding: 5px;
   margin: 10px;
   background: #faebd7;
+  background-size: auto;
 }
 
 .label {
@@ -19,5 +20,13 @@ li {
 }
 
 .heading {
-  align-content: center;
+  text-align: center;
+}
+
+body {
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
 }
