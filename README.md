@@ -8,7 +8,7 @@
 ![ScreenShot](public/assets/img/burger_app.png)
 
 ## Website URL
-https://rocky-bayou-21194.herokuapp.com/
+https://murmuring-retreat-05723.herokuapp.com/
 
 ## Technologies used
 + Node
